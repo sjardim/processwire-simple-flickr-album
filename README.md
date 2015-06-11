@@ -14,3 +14,6 @@ A simple script to get a album downloaded to a page using ProcessWire API
 1. Add one or more Flickr album IDs on `get_flickr_sets.php`
 1. Open the page using the `get_flickr_sets.php` template on your browser
 
+## Screenshot of ProcessWire Admin
+
+![](https://raw.githubusercontent.com/sjardim/processwire-simple-flickr-album/master/Screenshot.png)
